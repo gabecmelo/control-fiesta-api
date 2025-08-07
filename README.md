@@ -92,6 +92,10 @@ Camada que encapsula as regras de negócio. A classe `PessoaService` executa ló
     * `POST http://localhost:8080/pessoas`
     * `GET  http://localhost:8080/pessoas`
 
+## 📄 Licença
+
+Este projeto está licenciado sob a **MIT License © 2025**. Veja o arquivo [LICENSE](LICENSE) para detalhes completos.
+
 ---
 
 Este projeto serve como aplicação prática dos princípios de orientação a objetos com uso de frameworks modernos.
